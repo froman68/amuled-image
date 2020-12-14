@@ -1,5 +1,5 @@
 FROM ubuntu:groovy
-MAINTAINER fromanf@gmail.com
+MAINTAINER f.roman.f+docker@gmail.com
 
 # Evita mensajes del tipo: 'debconf: unable to initialize frontend: Readline'.
 ENV DEBIAN_FRONTEND noninteractive

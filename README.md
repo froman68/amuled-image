@@ -30,7 +30,7 @@ Finish with:
 sudo killall amuled
 ```
 
-If you stop using `docker stop froman68/amuled`, daemon is killed ungracefully. For next start file [host_config_dir]mulelock has to be deleted.
+If you stop using `docker stop froman68/amuled`, daemon is killed ungracefully. For next start file `[host_config_dir]/mulelock` has to be deleted.
 
 ### Note about ports:
 
